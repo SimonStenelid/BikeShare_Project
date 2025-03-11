@@ -48,7 +48,7 @@ This data analysis project aims to provide insights about how different customer
 Customer data: The primary dataset used for the analysis is in the "202401-divvy-tripdata.csv" - "202412-divvy-tripdata.csv" files, contaning information about each trip made by the customers. The dataset is for each month during 2024, and includes information such as type of bike, trip start & end time and if they are a casual rider (non member) or an annnual paying member. 
 
 ### Tools Used
-- Excel -> Data Cleaning & Visualizations | [Download]()
+- Excel -> Data Cleaning & Visualizations | [Download](https://downgit.github.io/#/home?url=https://github.com/SimonStenelid/BikeShare_Project/blob/main/Charts.png)
 - SQL BigQuery -> Data Analysis
 - PowerPoint -> Creating Reports | [Download]()
 
